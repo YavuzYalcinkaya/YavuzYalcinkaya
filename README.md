@@ -29,8 +29,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YavuzYalcinkaya&theme=dracula">
 </details>
 
-<br/>
-
 <details>
 <summary> Most Used Languages </summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YavuzYalcinkaya&layout=compact">
